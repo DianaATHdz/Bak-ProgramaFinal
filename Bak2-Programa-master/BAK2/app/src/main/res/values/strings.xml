@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BAK</string>
+    <string name="title_activity_productos">Productos</string>
+    <string name="title_activity_calculadora">Calculadora</string>
+    <string name="title_activity_informacion">informacion</string>
+    <string name="title_activity_comprar">Comprar</string>
+    <string name="title_activity_alimento">Alimento</string>
+    <string name="title_activity_hueso">Hueso</string>
+    <string name="title_activity_premio">Premio</string>
+    <string name="productos">Productos</string>
+    <string name="title_activity_tiposperros">tiposperros</string>
+    <string name="title_activity_variosperros">variosperros</string>
+    <string name="title_activity_beagleactivity">beagleactivity</string>
+    <string name="title_activity_borderactivity">borderactivity</string>
+    <string name="title_activity_bulterrieractivity">bulterrieractivity</string>
+    <string name="title_activity_canichieactivity">canichieactivity</string>
+    <string name="title_activity_chihuactivity">chihuactivity</string>
+    <string name="title_activity_dalmataactivity">dalmataactivity</string>
+    <string name="title_activity_goldenactivity">goldenactivity</string>
+    <string name="title_activity_pastoractivity">pastoractivity</string>
+    <string name="title_activity_pugactivity">pugactivity</string>
+    <string name="title_activity_sanbactivity">sanbactivity</string>
+    <string name="title_activity_schactivity">schactivity</string>
+    <string name="title_activity_shiactivity">shiactivity</string>
+    <string name="title_activity_conozcoono">conozcoono</string>
+</resources>

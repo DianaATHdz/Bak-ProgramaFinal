@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dell.bak">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".BAK">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <![CDATA[
+        android:label="@string/title_activity_productos"
+            android:theme="@style/AppTheme.NoActionBar" />
+        android:parentActivityName=".BAK">
+        ]]>
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".BAK" />
+
+        <activity
+            android:name=".Calculadora"
+            android:label="@string/title_activity_calculadora"
+            android:theme="@style/AppTheme.NoActionBar" />
+        android:parentActivityName=".BAK">
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".BAK" />
+
+        <activity
+            android:name=".informacion"
+            android:label="@string/title_activity_informacion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        android:parentActivityName=".BAK">
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".BAK" />
+
+        <activity
+            android:name=".Alimento"
+            android:label="@string/title_activity_alimento"
+            android:theme="@style/AppTheme.NoActionBar" />
+        android:parentActivityName=".BAK">
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".BAK" />
+
+        <activity
+            android:name=".Hueso"
+            android:label="@string/title_activity_hueso"
+            android:theme="@style/AppTheme.NoActionBar" />
+        android:parentActivityName=".BAK">
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".BAK" />
+
+        <activity
+            android:name=".Premio"
+            android:label="@string/title_activity_premio"
+            android:theme="@style/AppTheme.NoActionBar" />
+        android:parentActivityName=".BAK">
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".BAK" />
+
+        <activity
+            android:name=".Comprar"
+            android:label="@string/title_activity_comprar"
+            android:theme="@style/AppTheme.NoActionBar">
+            android:parentActivityName=".BAK">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".BAK" />
+        </activity>
+        <activity
+            android:name=".Productos"
+            android:label="@string/title_activity_productos"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".tiposperros"
+            android:label="@string/title_activity_tiposperros"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".variosperros"
+            android:label="@string/title_activity_variosperros"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".beagleactivity"
+            android:label="@string/title_activity_beagleactivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".borderactivity"
+            android:label="@string/title_activity_borderactivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bulterrieractivity"
+            android:label="@string/title_activity_bulterrieractivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".canichieactivity"
+            android:label="@string/title_activity_canichieactivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".chihuactivity"
+            android:label="@string/title_activity_chihuactivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".dalmataactivity"
+            android:label="@string/title_activity_dalmataactivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".goldenactivity"
+            android:label="@string/title_activity_goldenactivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".pastoractivity"
+            android:label="@string/title_activity_pastoractivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".pugactivity"
+            android:label="@string/title_activity_pugactivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".sanbactivity"
+            android:label="@string/title_activity_sanbactivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".schactivity"
+            android:label="@string/title_activity_schactivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".shiactivity"
+            android:label="@string/title_activity_shiactivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".conozcoono"
+            android:label="@string/title_activity_conozcoono"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>
